@@ -1,0 +1,21 @@
+{
+  "name": "example-verror",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the 'node-verror' module.",
+  "homepage": "http://npmawesome.com/posts/2014-08-11-verror/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:npmawesome/example-verror.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npmawesome",
+    "error handling"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "verror": "^1.4.0"
+  }
+}
