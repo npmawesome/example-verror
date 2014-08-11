@@ -1,7 +1,7 @@
 {
   "name": "example-verror",
   "version": "1.0.0",
-  "description": "Example which describes how to use the 'node-verror' module.",
+  "description": "Example which shows how to use the `verror` module.",
   "homepage": "http://npmawesome.com/posts/2014-08-11-verror/",
   "repository": {
     "type": "git",
